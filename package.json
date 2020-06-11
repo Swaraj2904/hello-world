@@ -1,0 +1,22 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Test deployment on EC2 instance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Swaraj2904/hello-world.git"
+  },
+  "author": "Swaraj Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swaraj2904/hello-world/issues"
+  },
+  "homepage": "https://github.com/Swaraj2904/hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
